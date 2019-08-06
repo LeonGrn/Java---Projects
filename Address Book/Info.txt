@@ -1,0 +1,2 @@
+Generates GUI program that reads and store address on file using Random access
+file and design patterns like: Memento, Command and Singelton
